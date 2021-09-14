@@ -1,0 +1,60 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "/home/server1/wangcheng/WorkPlace/DemoStudyWang",
+      "sdkFolder": "/home/server1/wangcheng/tools/android_sdk/sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "/home/server1/wangcheng/WorkPlace/DemoStudyWang/app/build/intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "/home/server1/wangcheng/WorkPlace/DemoStudyWang/app",
+      "makeFile": "/home/server1/wangcheng/WorkPlace/DemoStudyWang/app/jni/Android.mk",
+      "buildSystem": "NDK_BUILD",
+      "compilerSettingsCacheFolder": "/home/server1/wangcheng/WorkPlace/DemoStudyWang/.cxx",
+      "cxxFolder": "/home/server1/wangcheng/WorkPlace/DemoStudyWang/app/.cxx",
+      "ndkFolder": "/home/server1/wangcheng/tools/android_sdk/sdk/ndk/22.1.7171670",
+      "ndkVersion": "22.1.7171670",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [],
+    "variantName": "release",
+    "soFolder": "/home/server1/wangcheng/WorkPlace/DemoStudyWang/app/build/intermediates/ndkBuild/release/lib",
+    "objFolder": "/home/server1/wangcheng/WorkPlace/DemoStudyWang/app/build/intermediates/ndkBuild/release/obj/local",
+    "jsonFolder": "/home/server1/wangcheng/WorkPlace/DemoStudyWang/app/.cxx/ndkBuild/release",
+    "gradleBuildOutputFolder": "/home/server1/wangcheng/WorkPlace/DemoStudyWang/app/.cxx/cxx/release",
+    "isDebuggableEnabled": false,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "ARM64_V8A",
+  "abiPlatformVersion": 28,
+  "cxxBuildFolder": "/home/server1/wangcheng/WorkPlace/DemoStudyWang/app/.cxx/ndkBuild/release/arm64-v8a",
+  "jsonFile": "/home/server1/wangcheng/WorkPlace/DemoStudyWang/app/.cxx/ndkBuild/release/arm64-v8a/android_gradle_build.json",
+  "gradleBuildOutputFolder": "/home/server1/wangcheng/WorkPlace/DemoStudyWang/app/.cxx/cxx/release/arm64-v8a",
+  "objFolder": "/home/server1/wangcheng/WorkPlace/DemoStudyWang/app/build/intermediates/ndkBuild/release/obj/local/arm64-v8a",
+  "buildCommandFile": "/home/server1/wangcheng/WorkPlace/DemoStudyWang/app/.cxx/ndkBuild/release/arm64-v8a/build_command.txt",
+  "buildOutputFile": "/home/server1/wangcheng/WorkPlace/DemoStudyWang/app/.cxx/ndkBuild/release/arm64-v8a/build_output.txt",
+  "modelOutputFile": "/home/server1/wangcheng/WorkPlace/DemoStudyWang/app/.cxx/ndkBuild/release/arm64-v8a/build_model.json",
+  "jsonGenerationLoggingRecordFile": "/home/server1/wangcheng/WorkPlace/DemoStudyWang/app/.cxx/ndkBuild/release/arm64-v8a/json_generation_record.json",
+  "compileCommandsJsonFile": "/home/server1/wangcheng/WorkPlace/DemoStudyWang/app/.cxx/ndkBuild/release/arm64-v8a/compile_commands.json"
+}

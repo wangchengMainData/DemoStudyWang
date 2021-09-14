@@ -1,0 +1,16 @@
+Executable : /home/server1/wangcheng/tools/android_sdk/sdk/ndk/22.1.7171670/ndk-build
+arguments : 
+NDK_PROJECT_PATH=null
+APP_BUILD_SCRIPT=/home/server1/wangcheng/WorkPlace/DemoStudyWang/app/jni/Android.mk
+APP_ABI=x86_64
+NDK_ALL_ABIS=x86_64
+NDK_DEBUG=1
+APP_PLATFORM=android-28
+NDK_OUT=/home/server1/wangcheng/WorkPlace/DemoStudyWang/app/build/intermediates/ndkBuild/debug/obj
+NDK_LIBS_OUT=/home/server1/wangcheng/WorkPlace/DemoStudyWang/app/build/intermediates/ndkBuild/debug/lib
+APP_SHORT_COMMANDS=false
+LOCAL_SHORT_COMMANDS=false
+-B
+-n
+jvmArgs : 
+

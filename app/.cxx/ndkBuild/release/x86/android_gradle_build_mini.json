@@ -1,0 +1,17 @@
+{
+  "buildFiles": [
+    "/home/server1/wangcheng/WorkPlace/DemoStudyWang/app/jni/Android.mk"
+  ],
+  "cleanCommands": [
+    "/home/server1/wangcheng/tools/android_sdk/sdk/ndk/22.1.7171670/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/home/server1/wangcheng/WorkPlace/DemoStudyWang/app/jni/Android.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-28 NDK_OUT\u003d/home/server1/wangcheng/WorkPlace/DemoStudyWang/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003d/home/server1/wangcheng/WorkPlace/DemoStudyWang/app/build/intermediates/ndkBuild/release/lib clean"
+  ],
+  "buildTargetsCommand": "/home/server1/wangcheng/tools/android_sdk/sdk/ndk/22.1.7171670/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/home/server1/wangcheng/WorkPlace/DemoStudyWang/app/jni/Android.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-28 NDK_OUT\u003d/home/server1/wangcheng/WorkPlace/DemoStudyWang/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003d/home/server1/wangcheng/WorkPlace/DemoStudyWang/app/build/intermediates/ndkBuild/release/lib {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "jni-demo-release-x86": {
+      "artifactName": "jni-demo",
+      "buildCommand": "/home/server1/wangcheng/tools/android_sdk/sdk/ndk/22.1.7171670/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/home/server1/wangcheng/WorkPlace/DemoStudyWang/app/jni/Android.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-28 NDK_OUT\u003d/home/server1/wangcheng/WorkPlace/DemoStudyWang/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003d/home/server1/wangcheng/WorkPlace/DemoStudyWang/app/build/intermediates/ndkBuild/release/lib /home/server1/wangcheng/WorkPlace/DemoStudyWang/app/build/intermediates/ndkBuild/release/obj/local/x86/libjni-demo.so",
+      "abi": "x86",
+      "output": "/home/server1/wangcheng/WorkPlace/DemoStudyWang/app/build/intermediates/ndkBuild/release/obj/local/x86/libjni-demo.so"
+    }
+  }
+}

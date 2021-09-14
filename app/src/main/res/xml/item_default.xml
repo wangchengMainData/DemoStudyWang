@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright (c) 2011-2014, Qualcomm Technologies, Inc. All Rights Reserved.
+  Qualcomm Technologies Proprietary and Confidential.
+-->
+<DemoGrid>
+
+    <DemoItem
+        name="Camera2"
+        auto="false"
+        enable="true"
+        packageName="wang.demo.root.camera2.Camera2"
+        parameter="" >
+    </DemoItem>
+    <DemoItem
+        name="Camera2Demo"
+        auto="false"
+        enable="true"
+        packageName="wang.demo.root.camera2demo.CameraActivity"
+        parameter="" >
+    </DemoItem>
+    <DemoItem
+        name="JniTest"
+        auto="false"
+        enable="true"
+        packageName="wang.demo.root.jnitest.JniTestActivity"
+        parameter="" >
+    </DemoItem>
+
+</DemoGrid>

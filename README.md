@@ -1,2 +1,0 @@
-# DemoStudyWang
-DemoApp
