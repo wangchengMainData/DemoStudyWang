@@ -44,6 +44,17 @@
 
             </intent-filter>
         </activity>
+        <service android:name=".service.MyAidlService"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="wang.demo.root.service.MyAidlService"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </service>
+        <service android:name=".service.LocalService"
+            android:exported="false"
+            android:enabled="true">
+        </service>
     </application>
 
 </manifest>

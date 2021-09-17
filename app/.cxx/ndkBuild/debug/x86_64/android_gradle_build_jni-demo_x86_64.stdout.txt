@@ -1,0 +1,2 @@
+[x86_64] Compile        : jni-demo <= demo.c
+[x86_64] SharedLibrary  : libjni-demo.so
